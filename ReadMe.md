@@ -10,3 +10,5 @@ This is a refresher of git and using git on the command line.
 - VS Code Keyboard Shortcuts
     - **ctrl** + **`** for toggling the terminal window
     - **ctrl** + **k** followed by **s** to "Save All"
+
+![Commit Messages](https://imgs.xkcd.com/comics/git_commit.png)
